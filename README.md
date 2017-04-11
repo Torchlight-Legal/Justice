@@ -1,0 +1,2 @@
+# Justice
+Torchlight is a nonprofit platform for ensuring free legal services to vulnerable populations.  Our initial focus is providing support to pro bono attorneys representing refugee, asylum-seekers, and other immigrants facing deportation. Torchlight seeks to apply open source and proprietary software tools to help lawyers win cases through crowdsourced efforts.  Without your help as a developer, children and other vulnerable people are often asked to represent themselves in one of the most complex court systems in the country with no professional legal help.
